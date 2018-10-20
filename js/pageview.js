@@ -1,4 +1,4 @@
-/* global store, api, cuid */
+/* global store, aboutPage,workPage,funPage */
 // eslint-disable-next-line no-unused-vars
 'use strict';
 

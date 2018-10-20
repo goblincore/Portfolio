@@ -507,7 +507,8 @@ const aboutPage = ()=>{
             </div>
             <div class="about-content-holder" >
             <div class="about-content-label">
-              This site was made using HTML5/CSS/ES6/JQuery :)
+              <a href="https://github.com/goblincore/Portfolio" title="View my portfolio on Github" target="_blank">Source code for this site available on my Github :)</a>
+
               </div><div class="about-content-inner">
         </div>
         </div>
